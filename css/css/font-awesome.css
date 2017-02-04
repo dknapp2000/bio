@@ -4,6 +4,10 @@
  */
 /* FONT PATH
  * -------------------------- */
+
+#thegang {
+  border-radius: 7px;
+}
 @font-face {
   font-family: 'FontAwesome';
   src: url('../fonts/fontawesome-webfont.eot?v=4.6.3');
