@@ -1,0 +1,52 @@
+
+#thegang {
+	float: left;
+	width: 50%;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.localcaption {
+	font-family: serif;
+	font-size: 30px;
+    border-bottom: 0;
+    background: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    padding: 15px;
+    width: 100%;
+    bottom: 20px;
+    line-height: 30px;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+#about {
+	margin-top: 10px;
+}
+
+#connect2 ul li a {
+	color: black;
+	border: 2px solid black;
+    border-radius: 100%;
+}
+
+#connect2 {
+	padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+@media screen and ( max-width: 600px ) {
+
+	#thegang {
+		width: 100%;
+		padding: 15px;
+		border: 1px solid rgba(68, 68, 68, 0.2);
+		margin-right: 0px;
+	}
+}
+
+/* sm=768 and less md=991 lg=1200 and moore*/
